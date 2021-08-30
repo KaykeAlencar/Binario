@@ -1,0 +1,46 @@
+body{
+	background: black; }
+
+.centralizar{
+	position: absolute;
+
+	width: 733px;
+	height: 204px;
+
+	top:40%;
+	left:50%;
+
+	transform: translate(-50%, -50%); }
+
+h1{
+	color:lightgreen;
+
+	text-align: center;
+	font-size: 40px; }
+
+.binario, .decimal{
+	width: 340px;
+	height: 100px;
+
+	padding: 10px;
+
+	color:green;
+	border-color: lightgreen;
+	font-size: 20px;
+	background:none; }
+
+
+button{
+	width: 733px;
+	background: none;
+	border-color:lightgreen;
+	color:gray;
+
+	margin-top: 10px; }
+
+button:hover{
+	border: solid 0.5px green;
+	transition: 0.2s; }
+
+.visor{
+	color:green; }
