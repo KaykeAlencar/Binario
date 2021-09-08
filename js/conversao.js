@@ -1,4 +1,4 @@
-const nb = []; const pordois = []; const toAdd = [];
+const nb = []; const pordois = []; const toAdd = []; alerta("este site é programado por um idiota")
 
 var multiplo = 1
 
