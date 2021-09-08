@@ -4,7 +4,6 @@ var multiplo = 1
 
 function get(){
 	const input = document.querySelector(".binario")
-	var i = 0
         for(i = 0; nb.length < input.value.length; i++){
 		nb.push(parseInt(input.value.charAt(i))) }
 	main() }
