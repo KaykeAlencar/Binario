@@ -26,7 +26,7 @@ function result () {
 
 	var total = 0
 	toAdd.forEach(function(nahora){
-		total = total + nahora })
+		total += nahora })
 
 	function zerar (lista){
 		lista.splice(0,lista.length) }
