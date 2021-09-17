@@ -1,4 +1,4 @@
-const nb = []; const pordois = []; const toAdd = [];
+const nb = []; const pordois = []; const toAdd = []; console.log(toadd)
 
 var multiplo = 1
 
